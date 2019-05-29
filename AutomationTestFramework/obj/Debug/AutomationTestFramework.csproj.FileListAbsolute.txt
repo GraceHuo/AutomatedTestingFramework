@@ -1,0 +1,11 @@
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\bin\Debug\AutomationTestFramework.dll
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\bin\Debug\AutomationTestFramework.pdb
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\bin\Debug\WebDriver.dll
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\bin\Debug\WebDriver.xml
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\obj\Debug\AutomationTestFramework.csprojAssemblyReference.cache
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\obj\Debug\AutomationTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\obj\Debug\AutomationTestFramework.csproj.CopyComplete
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\obj\Debug\AutomationTestFramework.dll
+C:\Users\UA33443\source\repos\AutomationTests\AutomationTestFramework\obj\Debug\AutomationTestFramework.pdb

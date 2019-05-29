@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTests", "AutomationTests\AutomationTests.csproj", "{C8F8003E-5058-4600-9798-9E9982E6D0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTestFramework", "AutomationTestFramework\AutomationTestFramework.csproj", "{17479AE0-F8EF-437D-BF84-14D8E8A912E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F8003E-5058-4600-9798-9E9982E6D0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F8003E-5058-4600-9798-9E9982E6D0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F8003E-5058-4600-9798-9E9982E6D0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F8003E-5058-4600-9798-9E9982E6D0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17479AE0-F8EF-437D-BF84-14D8E8A912E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17479AE0-F8EF-437D-BF84-14D8E8A912E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17479AE0-F8EF-437D-BF84-14D8E8A912E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17479AE0-F8EF-437D-BF84-14D8E8A912E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86EF7F14-FC72-4E74-9F7F-BADEBC3AF6BD}
+	EndGlobalSection
+EndGlobal
