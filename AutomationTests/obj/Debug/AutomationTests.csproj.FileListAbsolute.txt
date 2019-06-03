@@ -9,7 +9,6 @@ C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\bin\Debug\Microsof
 C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\bin\Debug\AutomationTestFramework.pdb
 C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\bin\Debug\WebDriver.xml
 C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\obj\Debug\AutomationTests.csprojAssemblyReference.cache
 C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\obj\Debug\AutomationTests.csproj.CoreCompileInputs.cache
 C:\Users\UA33443\source\repos\AutomationTests\AutomationTests\obj\Debug\AutomationTests.csproj.CopyComplete

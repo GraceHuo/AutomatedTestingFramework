@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTests", "Automati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTestFramework", "AutomationTestFramework\AutomationTestFramework.csproj", "{17479AE0-F8EF-437D-BF84-14D8E8A912E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowPlay.Tests", "SpecFlow.Tests\SpecFlowPlay.Tests.csproj", "{7D330018-EA36-4FB7-B693-3F9E4CEAA061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{17479AE0-F8EF-437D-BF84-14D8E8A912E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17479AE0-F8EF-437D-BF84-14D8E8A912E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17479AE0-F8EF-437D-BF84-14D8E8A912E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D330018-EA36-4FB7-B693-3F9E4CEAA061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D330018-EA36-4FB7-B693-3F9E4CEAA061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D330018-EA36-4FB7-B693-3F9E4CEAA061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D330018-EA36-4FB7-B693-3F9E4CEAA061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
